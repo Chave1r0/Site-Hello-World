@@ -1,0 +1,27 @@
+h2{
+    color: orange; /* adiciona a cor laranja as seções h2 */
+}
+
+body{
+    background-color: #0c0e0e; /* adiciona a cor de fundo ao site */
+    color: white; /* adiciona a cor branca aos textos excete h2 */
+    font-family: Roboto; /* adiciona a fonte de texto roboto */
+    text-align: center; /* alinha o texto ao centro */
+}
+
+header{
+    border-bottom: 1px solid grey; /* adiciona uma borda abaixo do cabeçalho de 1pixel, solida e de cor cinza */
+}
+
+footer{
+    border-top: 1px solid grey; /* adiciona uma borda acima do rodapé de 1pixel, solida e de cor cinza */
+}
+
+#nome-usuário{ /*seleciona o atributo id*/
+    font-weight: bold;
+
+}
+
+.texto-inglês{ /*seleciona o atributo class*/
+    font-style: italic;
+}
